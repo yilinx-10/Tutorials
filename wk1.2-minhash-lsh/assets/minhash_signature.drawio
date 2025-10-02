@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="9rslKz2HrS2o2wywR3eQ">
+    <mxGraphModel dx="3466" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="&lt;img src=&quot;https://www.pinecone.io/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fvr8gru94%2Fproduction%2F866cea917043cfd7eb8221fc1a3b715a61e9d14f-1280x720.png&amp;amp;w=3840&amp;amp;q=75&quot; alt=&quot;Here we using four minhash functions/vectors to create a four-digit signature vector. If you count (from one) in each minhash function, and identify the first value that aligns with a one in the sparse vector — you will get 2412.&quot;&gt;" link="&lt;img src=&quot;https://www.pinecone.io/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fvr8gru94%2Fproduction%2F866cea917043cfd7eb8221fc1a3b715a61e9d14f-1280x720.png&amp;amp;w=3840&amp;amp;q=75&quot; alt=&quot;Here we using four minhash functions/vectors to create a four-digit signature vector. If you count (from one) in each minhash function, and identify the first value that aligns with a one in the sparse vector — you will get 2412.&quot;&gt;" id="YSj-WSTC5zWAkFyVQcUS-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="425" y="230" width="1225" height="730" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="YSj-WSTC5zWAkFyVQcUS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=#ffffff;endArrow=block;endFill=1;endSize=3;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=14;flowAnimation=0;shadow=0;curved=1;strokeColor=light-dark(#004C99,#7D8FFF);" edge="1" parent="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="473" y="799" as="sourcePoint" />
+            <mxPoint x="476" y="886" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="455" y="799" />
+              <mxPoint x="455" y="886" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YSj-WSTC5zWAkFyVQcUS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=#ffffff;endArrow=block;endFill=1;endSize=3;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=14;flowAnimation=0;shadow=0;curved=1;strokeColor=light-dark(#004C99,#7D8FFF);" edge="1" parent="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="474" y="897" as="sourcePoint" />
+            <mxPoint x="474" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="897" />
+              <mxPoint x="420" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YSj-WSTC5zWAkFyVQcUS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=#ffffff;endArrow=block;endFill=1;endSize=3;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=14;flowAnimation=0;shadow=0;curved=1;strokeColor=light-dark(#004C99,#7D8FFF);" edge="1" parent="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="471" y="675" as="sourcePoint" />
+            <mxPoint x="474" y="372" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="675" />
+              <mxPoint x="410" y="372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YSj-WSTC5zWAkFyVQcUS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=#ffffff;endArrow=block;endFill=1;endSize=3;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=14;flowAnimation=0;shadow=0;curved=1;strokeColor=light-dark(#004C99,#7D8FFF);" edge="1" parent="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="470" y="383" as="sourcePoint" />
+            <mxPoint x="474" y="587" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="383" />
+              <mxPoint x="430" y="587" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YSj-WSTC5zWAkFyVQcUS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=#ffffff;endArrow=block;endFill=1;endSize=3;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=14;flowAnimation=0;shadow=0;curved=1;strokeColor=light-dark(#004C99,#7D8FFF);" edge="1" parent="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="469" y="579" as="sourcePoint" />
+            <mxPoint x="476" y="473" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="580" />
+              <mxPoint x="450" y="473" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YSj-WSTC5zWAkFyVQcUS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
